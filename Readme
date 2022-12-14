@@ -1,0 +1,4 @@
+This is my readme file. I am learning Git. I started from Obsidian and importing *.enex files from Everrnote. Then I thought I'd try importing Notebooks from OneNote but that got very complicated. 
+In looking for ways to do that I stumbled on Github. Now, as I said, I am learning github.
+My first experience was  working with the github web page in the browser (Firefox). The tutorial to get started told me to create a new repository, that I'd find in the upper right corner of every page a + sign for a pulldown menu.
+I couldn't find it. It took an insight to realize I was not IN Git, I was in the browser; that I had to download and install Git. Which now I have done.
